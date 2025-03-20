@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "redirects",
+  "version": "1.0",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "tabs",
+    "https://*/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": []
+}
