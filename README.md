@@ -1,10 +1,9 @@
-# redirects 
-a program that redirects websites to their better versions.
+# xcancel redirect
 
 --- 
 
-**currently supporting:**
+a firefox add-on that redirects x.com and twitter.com domains to xcancel.com. 
 
-- reddit -> old reddit
 
-- twitter -> nitter (xcancel)
+
+
